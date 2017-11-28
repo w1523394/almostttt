@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">My Application</string>
+        <string name="send">Send</string>
+        <string name="pass_label">Contraseña</string>
+        <string name="name_label">Nombre</string>
+        <string name="password" />
+        <string name="wrong" />
+        <string name="radio1">Ingles</string>
+        <string name="radio2">Espanol</string>
+        <string name="email" />
+        <string name="date">Fecha</string>
+        <string name="time">Hora</string>
+        <string-array name="spinner_array">
+            <item>Elegir uno</item>
+            <item>Estudiante</item>
+            <item>Personal</item>
+            <item>Facultad</item>
+        </string-array>
+    <string name="email_label">Correo electrónico</string>
+
+
+</resources>

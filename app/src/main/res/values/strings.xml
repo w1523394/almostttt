@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Portal</string>
+    <string name="send">Send</string>
+    <string name="pass_label">Password</string>
+    <string name="name_label">Name</string>
+    <string name="password" />
+    <string name="wrong" />
+    <string name="radio1">English</string>
+    <string name="radio2">Spanish</string>
+    <string name="email" />
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="email_label">Email</string>
+    <string-array name="spinner_array">
+        <item>Pick One</item>
+        <item>Student</item>
+        <item>Staff</item>
+        <item>Faculty</item>
+    </string-array>
+</resources>
